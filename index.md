@@ -4,10 +4,18 @@ EDA (Electronic Design Automation) 기술의 응용 범위가 Chip 설계에서�
 2020.02.22 (토)
 
 # 장소
+강원도 용평 그린피아콘도
 
 # Organizer
 연세대학교 이경우 교수, kyoungwoo.lee@yonsei.ac.kr
 
 # 등록
+일반 10만원 / 학생 5만원
+* 사전등록 - 링크
+* 현장등록: 행사 당일 현장에서 카드 결제
 
 # Program
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
