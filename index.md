@@ -16,7 +16,14 @@ EDA (Electronic Design Automation) 기술의 응용 범위가 Chip 설계에서�
 
 # Program
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 시간 | Program |
+| --- | ------- |
+| 09:30-09:45 | Opening |
+| 09:45-10:45 | Session I. Architecture-/Circuit-Level Security <br> Speaker: 김지훈 교수(이화여대), 최병덕 교수(한양대) |
+| 10:45-11:15 | 휴식 (학생 포스터) |
+| 11:15-12:15 | Session II. DAC/DATE review <br> Speaker: 궁재하 교수(DGIST) |
+| 12:15-13:30 | 점심 식사 및 Newcomers 소개 |
+| 13:30-15:00 | Session III. Circuit-Level AI <br> Speaker: 송진호 교수(연세대), 이영주 교수(Postech), 최웅 교수(숙명여대) |
+| 15:00-15:30 | 휴식 (학생 포스터) |
+| 15:30-16:30 | Session IV. Industry Session <br> Speaker: 이성현 대표(OpenEdges), 주영표 팀장(SK Hynix) |
+| 16:30-17:00 | 학생 포스터 시상 및 Closing |
