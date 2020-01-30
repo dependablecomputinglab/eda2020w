@@ -4,7 +4,7 @@ EDA (Electronic Design Automation) 기술의 응용 범위가 Chip 설계에서�
 2020.02.22 (토)
 
 # 장소
-강원도 용평 그린피아콘도
+연세대학교 신촌캠퍼스 제4공학관 504호
 
 # Organizer
 연세대학교 이경우 교수, kyoungwoo.lee@yonsei.ac.kr
